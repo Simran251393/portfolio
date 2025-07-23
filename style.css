@@ -340,7 +340,7 @@ section{
 }
 
 .project-box {
-    background: #000000;
+    background: #1d2021;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     overflow: hidden;
@@ -407,7 +407,7 @@ section{
 
 .project-box {
     text-align: center;
-    background-color: #fff;
+    background-color: #1d2021;
     border-radius: 12px;
     padding: 1rem;
     transition: transform 0.3s;
